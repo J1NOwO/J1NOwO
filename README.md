@@ -35,14 +35,19 @@ Hello, my name is Jinwoo Yoon, and I graduated from Auburn University. I enjoy b
 
 ---
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=J1NOwO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1NOwO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
+## 🚀 Projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J1NOwO&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
+- 🔹 **[ParentChildSleepApp](https://github.com/J1NOwO/ParentChildSleepApp)**  
+  A sleep tracking application that integrates data from Fitbit, Samsung Health, and Bluetooth devices to analyze sleep duration and quality.
+
+- 🔹 **[Tamagotchi](https://github.com/J1NOwO/Claude-tamagotchi)**  
+  A virtual pet project focused on interactive gameplay, animation, and character-based design.
+
+- 🔹 **[Planner App](https://github.com/J1NOwO/planner_desktop)**  
+  A productivity planner with scheduling, checklist management, and daily organization features.
+
+- 🔹 **[Job Application Tracker](https://github.com/J1NOwO/job-application-tracker)**  
+  A tool for managing job applications, tracking progress, and organizing application statuses.
 
 ---
 
