@@ -1,10 +1,10 @@
-```
+<pre>
      ██╗ ██╗███╗   ██╗ ██████╗ ██╗    ██╗ ██████╗ 
      ██║███║████╗  ██║██╔═══██╗██║    ██║██╔═══██╗
      ██║╚██║██╔██╗ ██║██║   ██║██║ █╗ ██║██║   ██║
 ██   ██║ ██║██║╚██╗██║██║   ██║██║███╗██║██║   ██║
 ╚█████╔╝ ██║██║ ╚████║╚██████╔╝╚███╔███╔╝╚██████╔╝
-```
+</pre>
 
 Hello, my name is Jinwoo Yoon, and I graduated from Auburn University. I enjoy building projects using AI tools and organizing prompts into structured workflows. I prefer a systematic approach to problem-solving and enjoy collaborating with teammates to successfully complete projects. While my English is still a work in progress, I am continuously practicing and improving. I am fluent in Korean and also have basic proficiency in Japanese.
 
