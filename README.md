@@ -37,17 +37,14 @@ Hello, my name is Jinwoo Yoon, and I graduated from Auburn University. I enjoy b
 
 ## 🚀 Projects
 
-- 🔹 **[ParentChildSleepApp](https://github.com/J1NOwO/ParentChildSleepApp)**  
-  A sleep tracking application that integrates data from Fitbit, Samsung Health, and Bluetooth devices to analyze sleep duration and quality.
-
-- 🔹 **[Tamagotchi](https://github.com/J1NOwO/Claude-tamagotchi)**  
-  A virtual pet project focused on interactive gameplay, animation, and character-based design.
+- 🔹 **[PaperTrade](https://github.com/J1NOwO/PaperTrade)**  
+  A full-stack paper trading platform built out of frustration with paywalled, US-only simulators — trade KRX, NYSE/NASDAQ, and 20+ cryptocurrencies with real-time data, portfolio tracking, and equity curve analysis.
 
 - 🔹 **[Planner App](https://github.com/J1NOwO/planner_desktop)**  
-  A productivity planner with scheduling, checklist management, and daily organization features.
+  A desktop planner built for people who actually want to stick to their schedule — clean UI, checklist management, and daily planning that gets out of your way.
 
 - 🔹 **[Job Application Tracker](https://github.com/J1NOwO/job-application-tracker)**  
-  A tool for managing job applications, tracking progress, and organizing application statuses.
+  Built out of personal necessity during job hunting — keeps every application, status, and deadline in one place so nothing slips through the cracks.
 
 ---
 
@@ -58,4 +55,3 @@ Hello, my name is Jinwoo Yoon, and I graduated from Auburn University. I enjoy b
 [![Handshake](https://img.shields.io/badge/Handshake-FF7A00?style=flat-square&logo=handshake&logoColor=white)](https://app.joinhandshake.com/profiles/tu9nu2)
 
 ---
-
